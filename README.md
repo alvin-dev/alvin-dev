@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&lines=%3C+Hi+there+!!+%2F%3E;%3C+Welcome+to+my+Profile+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=52A5FE&lines=%3C+Hi+there+!!+%2F%3E;%3C+Welcome+to+my+Profile+%2F%3E)](https://git.io/typing-svg)
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=alvin-dev&show_icons=true&theme=github_dark" alt="Alvaro's stats"/>
 
@@ -6,8 +6,6 @@
 <!-- 
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-dev&layout=compact&theme=github_dark" alt="Alvaro's most languages"/> 
 -->
-
-
 
 ## ✨ Curiosities
 
