@@ -1,12 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alvin-dev&show_icons=true&theme=github_dark" alt="Alvaro's stats"/>
+
+
+<!-- 
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-dev&layout=compact&theme=github_dark" alt="Alvaro's most languages"/> 
+-->
+
 
 
 ## ✨ Curiosities
 
 - 🔭 I’m currently <strong>open to work</strong>
-- 🌱 I’m currently learning JavaScript and React
-- 💬 Ask me about 
-
+- 🌱 I’m currently learning <strong>JavaScript and React</strong>
+- 💬 Ask me about Anything
 
 ## 🔗 Social Links
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alvaro.web.dev/)](https://www.facebook.com/alvaro.web.dev/)
